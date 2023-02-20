@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">MydearMechanic</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Dashboard</string>
+    <string name="menu_gallery">My Profile</string>
+    <string name="menu_slideshow">Service Request</string>
+    <string name="menu_aboutus">About Us</string>
+    <string name="menu_share">Share this app</string>
+    <string name="menu_rule">Rules&amp;Regulations</string>
+    <string name="menu_lang">Language</string>
+    <string name="menu_logout">Logout</string>
+    <string name="hyperlink">Existing Customer/Mechanic/Call Centre<a href=""> Login here!!</a></string>
+    <string name="hyperlink1">New Customer/Mechanic/Call Centre Click to <a href="">Registration here!!</a></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="Town">
+        <item>Town/city</item>
+        <item>Coyambadu</item>
+        <item>Vadarajanpet</item>
+        <item>Andimadam</item>
+        <item>Kellys</item>
+        <item>Villivakam</item>
+        <item>Nungambakam</item>
+        <item>Thambaram</item>
+        <item>Egmore</item>
+        <item>Chetpet</item>
+    </string-array>
+
+</resources>
